@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.navbar {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 20px;
+}
